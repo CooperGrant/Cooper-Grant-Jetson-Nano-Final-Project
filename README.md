@@ -1,2 +1,2 @@
-# Cooper-Grant-Jetson-Nano-Final-Project
+#JetsonNanoFinalProject
 Final project of the Nvidia Jetson Nano class.
